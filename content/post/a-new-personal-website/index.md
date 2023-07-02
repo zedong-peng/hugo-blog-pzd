@@ -11,8 +11,7 @@ tags:
   - "1"
 categories:
   - "1"
-projects:
-  - "1"
+projects: []
 image:
   filename: img_5200.jpeg
   focal_point: "1"
