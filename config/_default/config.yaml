@@ -12,7 +12,6 @@ baseURL: 'https://example.com/' # Website URL
 
 cascade:
   # Blog post options
-  commentable: true
   - _target:
       path: /post/**
     pager: true
