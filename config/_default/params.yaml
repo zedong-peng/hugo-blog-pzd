@@ -76,17 +76,17 @@ features:
     gravatar: false
     shape: circle
   comment:
-    provider: ''
+    provider: 'giscus'
     disqus:
       shortname: ''
       show_count: true
     commento:
       url: ''
     giscus:
-      repo: ''
-      repo_id: ''
-      category: ''
-      category_id: ''
+      repo: 'PZD-CHINA/hugo-blog-pzd'
+      repo_id: 'R_kgDOJ2sq1A'
+      category: 'Announcements'
+      category_id: 'DIC_kwDOJ2sq1M4CXpKX'
   search:
     provider: wowchemy
     algolia:
