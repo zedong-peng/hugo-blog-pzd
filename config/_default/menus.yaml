@@ -11,3 +11,13 @@ main:
   - name: About
     url: about/
     weight: 20
+  - name: Tags
+    identifier: tags
+    weight: 30
+  - name: Academic
+    parent: tags
+    url: tags/academic/
+    weight: 10
+  - name: post
+    url: post/
+    weight: 40
