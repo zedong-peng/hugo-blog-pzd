@@ -8,10 +8,6 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Tags
-    identifier: tags
+  - name: About
+    url: about/
     weight: 20
-  - name: Academic
-    parent: tags
-    url: tags/academic/
-    weight: 10
