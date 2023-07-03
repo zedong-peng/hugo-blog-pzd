@@ -21,7 +21,7 @@ cascade:
     show_related: true
     show_breadcrumb: true
     share: true
-    commentable: true
+    
     header:
       navbar:
         enable: false
@@ -48,6 +48,8 @@ module:
 ############################
 ## ADVANCED
 ############################
+
+commentable: true
 
 enableGitInfo: false
 summaryLength: 30
