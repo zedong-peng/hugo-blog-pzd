@@ -21,7 +21,7 @@ cascade:
     show_related: true
     show_breadcrumb: true
     share: true
-    comments: true
+    commentable: true
     header:
       navbar:
         enable: false
