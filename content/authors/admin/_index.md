@@ -4,7 +4,7 @@
  bio: My research interests include distributed robotics, mobile computing and
    programmable matter.
  social:
-   - icon: GitHub
+   - icon: github
      icon_pack: fab
      link: https://github.com/PZD-CHINA
    - icon: bilibili
