@@ -11,9 +11,9 @@
      icon_pack: fab
      link: https://space.bilibili.com/651554450
    - icon: file-pdf
-    icon_pack: fas
-    label: View Resume
-    link: uploads/resume.pdf
+     icon_pack: fas
+     label: View Resume
+     link: uploads/resume.pdf
  organizations:
    - name: 上海交通大学
      url: https://www.sjtu.edu.cn
