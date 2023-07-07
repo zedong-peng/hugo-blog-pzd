@@ -12,10 +12,10 @@ social:
     icon_pack: fab
     link: https://space.bilibili.com/651554450
     label: 毕导sjtu的空间
-  - icon: file-pdf
-    icon_pack: fas
-    label: View Resume
-    link: uploads/resume.pdf
+  #- icon: file-pdf
+    #icon_pack: fas
+    #label: View Resume
+    #link: uploads/resume.pdf
   - display:
     header: true
 organizations:
