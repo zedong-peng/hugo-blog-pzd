@@ -1,18 +1,15 @@
 ---
 title: Peng Zedong (彭则栋)
-role: 大四本科生
+role: 四年级
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: about/#contact
-  - icon: twitter
+  - icon: GitHub
     icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
+    link: https://github.com/PZD-CHINA
+  - icon: bilibili
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://space.bilibili.com/651554450
 organizations:
   - name: 上海交通大学
     url: https://www.sjtu.edu.cn
