@@ -4,12 +4,20 @@ role: 四年级
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 social:
-  - icon: GitHub
+  - icon: github
     icon_pack: fab
     link: https://github.com/PZD-CHINA
+    label: github.com/PZD-CHINA
   - icon: bilibili
     icon_pack: fab
     link: https://space.bilibili.com/651554450
+    label: 毕导sjtu的空间
+  - display:
+      header: false
+    icon: file-pdf
+    icon_pack: fab
+    label: View Resume
+    link: uploads/resume.pdf
 organizations:
   - name: 上海交通大学
     url: https://www.sjtu.edu.cn
