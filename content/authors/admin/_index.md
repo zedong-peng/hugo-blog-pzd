@@ -1,6 +1,6 @@
 ---
 title: Peng Zedong (彭则栋)
-role: 数据科学家
+role: 大四本科生
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 social:
@@ -14,8 +14,8 @@ social:
     icon_pack: fab
     link: https://instagram.com/geocushen
 organizations:
-  - name: 腾讯
-    url: ""
+  - name: 上海交通大学
+    url: https://www.sjtu.edu.cn
 superuser: true
 status:
   icon: ☕️
