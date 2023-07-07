@@ -1,12 +1,12 @@
 ---
 title: 《通信原理》笔记
 date: 2023-07-07T14:59:30.803Z
+summary: 上海交通大学 《通信原理》不完全笔记
 draft: false
-featured: true
+featured: false
 authors:
   - admin
-categories:
-  - notes
+categories: []
 image:
   filename: featured
   focal_point: Smart
