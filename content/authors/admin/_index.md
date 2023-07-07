@@ -17,7 +17,7 @@ social:
     label: View Resume
     link: uploads/resume.pdf
   - display:
-    header: false
+    header: true
 organizations:
   - name: 上海交通大学
     url: https://www.sjtu.edu.cn
