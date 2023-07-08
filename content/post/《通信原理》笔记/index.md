@@ -1,7 +1,7 @@
 ---
 title: 《通信原理》笔记
 date: 2023-07-07T14:59:30.803Z
-summary: 上海交通大学 《通信原理》不完全笔记
+summary: 上海交通大学 《通信原理》课程不完全笔记
 draft: false
 featured: false
 authors: []
