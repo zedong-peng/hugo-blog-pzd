@@ -14,7 +14,6 @@ authors:
 
 image:
   filename: featured.jpg
-  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
   focal_point: ''
   placement: 2
   preview_only: false
