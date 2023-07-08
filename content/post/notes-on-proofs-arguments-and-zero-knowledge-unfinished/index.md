@@ -1,8 +1,12 @@
 ---
-title: Notes on Proofs, Arguments, and Zero-Knowledge(unfinished)
+title: Notes on Proofs, Arguments, and Zero-Knowledge (unfinished)
 subtitle: Tags:machine learning, security, privacy, and mobile computing  Guided
   by [Liyao Xiang](http://xiangliyao.cn)
 date: 2023-07-08T15:14:48.810Z
+summary: |-
+  Tags:machine learning, security, privacy, and mobile computing  
+
+  Guided by [Liyao Xiang](http://xiangliyao.cn)
 draft: false
 featured: false
 image:
