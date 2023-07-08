@@ -9,6 +9,8 @@ summary: |-
   Guided by [Liyao Xiang](http://xiangliyao.cn)
 draft: false
 featured: false
+categories:
+  - notes
 image:
   filename: featured
   focal_point: Smart
