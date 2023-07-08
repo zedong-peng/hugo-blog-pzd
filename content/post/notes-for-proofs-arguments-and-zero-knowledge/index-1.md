@@ -1,6 +1,6 @@
 ---
 title: Notes on Proofs, Arguments, and Zero-Knowledge
-date: 2023-07-07T14:52:01.120Z
+date: 2023-07-07T14:52:01Z
 summary: "Guided by Liyao Xiang and Haohua Duan. "
 draft: false
 featured: false
