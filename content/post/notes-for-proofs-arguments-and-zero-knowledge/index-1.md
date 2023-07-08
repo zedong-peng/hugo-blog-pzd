@@ -11,7 +11,7 @@ featured: false
 
 authors:
   - admin
-  - 
+
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
   focal_point: ''
