@@ -1,12 +1,22 @@
 ---
 title: Notes on Proofs, Arguments, and Zero-Knowledge
+
 date: 2023-07-07T14:52:01Z
+
 summary: "Guided by Liyao Xiang and Haohua Duan. "
+
 draft: false
+
 featured: false
+
 authors:
   - admin
+  - 
 image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  focal_point: ''
+  placement: 2
+
   filename: featured
   focal_point: Smart
   preview_only: false
