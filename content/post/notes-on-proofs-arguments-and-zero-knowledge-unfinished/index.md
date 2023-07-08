@@ -1,5 +1,5 @@
 ---
-title: Notes on Proofs, Arguments, and Zero-Knowledge (unfinished)
+title: Notes on Proofs, Arguments, and Zero-Knowledge
 subtitle: Tags:machine learning, security, privacy, and mobile computing  Guided
   by [Liyao Xiang](http://xiangliyao.cn)
 date: 2023-07-08T15:14:48.810Z
@@ -15,6 +15,7 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)"
 ---
 ZKP
 ==
