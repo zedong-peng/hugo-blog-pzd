@@ -16,9 +16,6 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
   focal_point: ''
   placement: 2
-
-  filename: featured
-  focal_point: Smart
   preview_only: false
 ---
 ZKP
