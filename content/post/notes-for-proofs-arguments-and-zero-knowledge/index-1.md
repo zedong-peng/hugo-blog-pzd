@@ -7,9 +7,8 @@ featured: false
 authors:
   - admin
 image:
-  filename: https://pic3.zhimg.com/v2-c1e23d327e8c089623860d87460336fe.jpeg
+  filename: ""
   focal_point: ""
-  placement: 2
   preview_only: false
 ---
 ZKP
