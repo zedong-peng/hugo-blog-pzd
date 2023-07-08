@@ -6,7 +6,10 @@ draft: false
 featured: false
 authors:
   - admin
-categories: []
+tags:
+  - notes1
+categories:
+  - notes2
 image:
   filename: ""
   focal_point: ""
