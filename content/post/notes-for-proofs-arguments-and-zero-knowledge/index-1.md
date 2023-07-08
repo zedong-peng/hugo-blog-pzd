@@ -64,7 +64,7 @@ figure3.2 Lagrange  interpolation 怎么用
 [算法解析](https://cloud.tencent.com/developer/article/2023698)：
 ![](https://pic4.zhimg.com/v2-a3046b52457145f43818c734bf8a112b.png)
 算法实例：
-![](https://mmbiz.qpic.cn/mmbiz_png/p8QicxWlj6Dw9xCNPulotUm7xicwoeicVSwo2pibhU9qvpGLb4TE5TekKEy1HkDcmupd2O8h6sZsmkknvjPTuiaUBOA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+![](https://pic3.zhimg.com/v2-70c1ad7b56c9291398821655afa499b2.png)
 优点：验证者给证明者的消息只是随机域元素，因此完全独立于输入多项式g
 
 ### 4.2 SAT $\in$ IP
@@ -132,7 +132,7 @@ $c=g^m*h^z$=>binding,加法同态性（两个Pedersen commitment可加$c_1\cdot 
     - 给定两个大素数p和q，计算n=p*q是容易的。然而，给定n，求解p、q则是困难的。
 - 离散对数困难问题
     - 实数域，计算log2(9)，用二分查找，很容易。
-        - ![](https://mmbiz.qpic.cn/sz_mmbiz_png/VEicRVnDkYpQp65ibYrglcJ5MZfwsBO3l0RNmrNrwVXA5gwkDLpwqAyuicicA5CZh5OmrguQ5SZkRA285cKXe6XNvw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+        - ![](https://pic2.zhimg.com/v2-023b908f29af7f1d4d30b5a58ee42189.jpeg)
     - 在模为n，生成元为g的有限域中，给定整数a，计算g^a = b是容易的。然而，给定b和g计算a则是困难的。（涉及有限域中的运算）
 - 椭圆曲线上的离散对数困难问题
     - 在有限域F上的椭圆曲线群，点P为曲线上某个点，给定整数a，计算a*P=Q是容易的。然而，根据P和Q计算a则是困难的。
