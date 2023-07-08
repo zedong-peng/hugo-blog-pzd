@@ -8,8 +8,8 @@ authors:
   - admin
 categories: []
 image:
-  filename: featured
-  focal_point: Smart
+  filename: https://pic3.zhimg.com/v2-c1e23d327e8c089623860d87460336fe.jpeg
+  focal_point: ""
   preview_only: false
 ---
 通信原理
