@@ -74,22 +74,22 @@ SJTU交换项目：
 
 [EE专业简单介绍：]https://www.shangyexinzhi.com/article/5894648.html
 
-[我为什么喜欢我的专业？【EE篇】：](https://instant.1point3acres.com/thread/14263)
+[我为什么喜欢我的专业？【EE篇】](https://instant.1point3acres.com/thread/14263)
 
-[复旦ee同学分享：](https://instant.1point3acres.com/thread/629465)
+[复旦ee同学分享](https://instant.1point3acres.com/thread/629465)
 
-[CS北美之外申请总结（北大ee本，瑞士硕，十年前）：](https://instant.1point3acres.com/thread/41026)
+[CS北美之外申请总结（北大ee本，瑞士硕，十年前）](https://instant.1point3acres.com/thread/41026)
 
-[Sjtu 信息安全的同学，gpa3.4：美英混申 CS&IS混申 选校定位求助：](https://instant.1point3acres.com/thread/675187)
+[Sjtu 信息安全的同学，gpa3.4：美英混申 CS&IS混申 选校定位求助](https://instant.1point3acres.com/thread/675187)
 
-[23fall选校｜华五工科转码｜中低三维｜一段实习一段水科研：](https://instant.1point3acres.com/thread/942153)
+[23fall选校｜华五工科转码｜中低三维｜一段实习一段水科研](https://instant.1point3acres.com/thread/942153)
 
-[自动化同级同学：](https://instant.1point3acres.com/thread/936133)
+[自动化同级同学](https://instant.1point3acres.com/thread/936133)
 
-[信工23fall，sjtu学长，gpa3.6：
+[信工23fall，sjtu学长，gpa3.6
 ](https://instant.1point3acres.com/thread/950979)
 
-[20Fall｜SJTU｜EE转CS｜普通三维求定位：](https://instant.1point3acres.com/thread/559617)
+[20Fall｜SJTU｜EE转CS｜普通三维求定位](https://instant.1point3acres.com/thread/559617)
 
 # 其他链接
 
