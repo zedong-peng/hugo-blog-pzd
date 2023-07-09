@@ -29,14 +29,17 @@ QS排名https://www.topuniversities.com/university-rankings/world-university-ran
 # 留学手册
 [上海交通大学2023年本科生升学指导手册by就业中心.pdf](/uploads/上海交通大学2023年本科生升学指导手册by就业中心.pdf)
 
+[上海交通大学留学手册.pdf](/uploads/上海交通大学留学手册.pdf)
 
+[武大美国计算机硕士选校指南2019.pdf](/uploads/武大美国计算机硕士选校指南2019.pdf)
 
-武大：
-
-浙大cs飞跃手册：
-
-
-SJTU飞跃手册（仅15级数据）：
+[浙大数院飞跃手册2020.pdf](/uploads/浙大数院飞跃手册2020.pdf)
+[浙江大学电气飞跃手册2020.pdf](/uploads/浙江大学电气飞跃手册2020.pdf)
+[浙江大学电气飞跃手册2020.pdf](/uploads/浙江大学电气飞跃手册2020.pdf)
+[浙江大学电子飞跃手册2021.pdf](/uploads/浙江大学电子飞跃手册2021.pdf)
+[浙江大学泛CS方向飞跃手册2020.pdf](/uploads/浙江大学泛CS方向飞跃手册2020.pdf)
+[浙江大学泛CS方向飞跃手册2021.pdf](/uploads/浙江大学泛CS方向飞跃手册2021.pdf)
+[浙江大学信电飞跃手册2018.pdf](/uploads/浙江大学信电飞跃手册2018.pdf)
 
 
 SJTU交换项目：
