@@ -25,7 +25,7 @@ QS排名https://www.topuniversities.com/university-rankings/world-university-ran
 
 
 # 留学手册
-[上海交通大学2023年本科生升学指导手册by就业中心.pdf](上海交通大学2023年本科生升学指导手册by就业中心.pdf)
+[上海交通大学2023年本科生升学指导手册by就业中心.pdf](uploads/上海交通大学2023年本科生升学指导手册by就业中心.pdf)
 
 
 
@@ -53,7 +53,8 @@ GPA计算器：
 [预约美签防止失学](https://tuixue.online/visa/)
 
 # 留学论坛：
-[一亩三分地](https://www.1point3acres.com)aq
+[一亩三分地](https://www.1point3acres.com)
+
 收藏夹：
 
 EE专业简单介绍：https://www.shangyexinzhi.com/article/5894648.html
