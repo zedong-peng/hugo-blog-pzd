@@ -1,7 +1,7 @@
 ---
 title: Notes on Proofs, Arguments, and Zero-Knowledge
-subtitle: Tags:machine learning, security, privacy, and mobile computing  Guided
-  by [Liyao Xiang](http://xiangliyao.cn)
+subtitle: "Tags: machine learning, security, privacy, and mobile
+  computing  Guided by [Liyao Xiang](http://xiangliyao.cn)"
 date: 2023-07-08T15:14:48.810Z
 summary: |-
   Tags:machine learning, security, privacy, and mobile computing  
@@ -19,7 +19,7 @@ image:
 ---
 ZKP
 ==
-Tags:machine learning, security, privacy, and mobile computing
+Tags: machine learning, security, privacy, and mobile computing
 
 Guided by [Liyao Xiang](http://xiangliyao.cn)
 
