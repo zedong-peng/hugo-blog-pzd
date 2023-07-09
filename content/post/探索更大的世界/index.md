@@ -2,6 +2,7 @@
 title: 探索更大的世界
 subtitle: 留学路上的记录
 date: 2023-07-09T02:56:26.988Z
+summary: 留学记录
 draft: false
 featured: false
 categories:
@@ -10,7 +11,7 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-  caption: 留学记录
+  caption: ""
 ---
 
 
