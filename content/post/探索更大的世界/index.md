@@ -10,6 +10,7 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+  caption: 留学记录
 ---
 
 
@@ -25,7 +26,7 @@ QS排名https://www.topuniversities.com/university-rankings/world-university-ran
 
 
 # 留学手册
-[上海交通大学2023年本科生升学指导手册by就业中心.pdf](uploads/上海交通大学2023年本科生升学指导手册by就业中心.pdf)
+[上海交通大学2023年本科生升学指导手册by就业中心.pdf](/上海交通大学2023年本科生升学指导手册by就业中心.pdf)
 
 
 
