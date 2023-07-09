@@ -61,7 +61,7 @@ SJTU交换项目：
 # 博客：
 [Zack Wu’s Blog](https://www.zackwu.com)
 
-[Alex Chi - Code for fun, Make things happen] (https://www.skyzh.dev)
+[Alex Chi - Code for fun, Make things happen](https://www.skyzh.dev)
 
 [sjtu cs 23fall学长](https://yanjieze.com)
 
@@ -72,7 +72,7 @@ SJTU交换项目：
 
 收藏夹：
 
-[EE专业简单介绍：]https://www.shangyexinzhi.com/article/5894648.html
+[EE专业简单介绍]https://www.shangyexinzhi.com/article/5894648.html
 
 [我为什么喜欢我的专业？【EE篇】](https://instant.1point3acres.com/thread/14263)
 
