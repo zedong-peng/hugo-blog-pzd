@@ -13,7 +13,7 @@
    - icon: file-pdf
      icon_pack: fas
      label: View Resume
-     link: uploads/resume_2023_7_2.pdf
+     link: uploads/resume_2023_10_1.pdf
  organizations:
    - name: 上海交通大学
      url: https://www.sjtu.edu.cn
