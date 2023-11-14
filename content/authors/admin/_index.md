@@ -7,16 +7,20 @@
    - icon: github
      icon_pack: fab
      link: https://github.com/PZD-CHINA
+     
    - icon: bilibili
      icon_pack: fab
      link: https://space.bilibili.com/651554450
+     
    - icon: linkedin
      icon_pack: fab
-     link: www.linkedin.com/in/zedong-peng
+     link: https://www.linkedin.com/in/zedong-peng
+     
    - icon: file-pdf
      icon_pack: fas
      label: View Resume
      link: uploads/resume_2023_10_1.pdf
+     
  organizations:
    - name: 上海交通大学
      url: https://www.sjtu.edu.cn
