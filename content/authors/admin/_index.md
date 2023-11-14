@@ -10,6 +10,9 @@
    - icon: bilibili
      icon_pack: fab
      link: https://space.bilibili.com/651554450
+   - icon: linkedin
+     icon_pack: fab
+     link: www.linkedin.com/in/zedong-peng
    - icon: file-pdf
      icon_pack: fas
      label: View Resume
