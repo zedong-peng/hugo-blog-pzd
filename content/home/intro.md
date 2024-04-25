@@ -20,4 +20,4 @@ author: admin
 
 🐈 Hey! I'm **Peng Zedong**, An undergraduate student at Shanghai Jiaotong University.
 
-Check out my [CV](uploads/resume_2023_10_1.pdf) and blog posts below 🌈
+Check out my [CV](uploads/resume_2024_4_26.pdf) and blog posts below 🌈
