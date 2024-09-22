@@ -19,7 +19,7 @@
    - icon: file-pdf
      icon_pack: fas
      label: View Resume
-     link: uploads/resume_2024_4_26.pdf
+     link: uploads/Zedong_CV_Mar2024.pdf
      
  organizations:
    - name: 上海交通大学
