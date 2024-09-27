@@ -18,15 +18,7 @@ author: admin
 #  css_class: fullscreen
 ---
 
-Research Interests
+Research Interests: Computer Architecture and Hardware / Software Co-Design 
 
-- Computer Architecture
-
-- Hardware / Software Co-Design 
-
-Info
-
-- [CV](uploads/Zedong_CV_Mar2024.pdf)
-
-- [Homepage](zedongpeng.com)
+Info: [CV](uploads/Zedong_CV_Mar2024.pdf)
 
