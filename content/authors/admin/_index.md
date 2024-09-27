@@ -1,8 +1,7 @@
 ---
  title: Peng Zedong (彭 则栋)
- role: Master's in Computer Science and Engineering @ [Shanghai Jiao Tong University](https://www.sjtu.edu.cn).
+ role: Master's in [CSE](https://www.cs.sjtu.edu.cn/en/) @ [SJTU](http://en.sjtu.edu.cn/) (2024-2027).
  bio: 
-
  social:
    - icon: github
      icon_pack: fab
