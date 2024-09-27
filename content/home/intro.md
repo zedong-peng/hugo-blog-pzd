@@ -18,7 +18,9 @@ author: admin
 #  css_class: fullscreen
 ---
 
-🐈 Hey! I'm **Peng Zedong**, An undergraduate student at Shanghai Jiaotong University.
+Zedong Peng is a master's student enrolled in 2024. His research focuses on Computer Architecture and Hardware / Software Co-Design of AI Systems. 
 
-Check out my [CV](uploads/Zedong_CV_Mar2024.pdf) and blog posts below.
+Check out [CV](uploads/Zedong_CV_Mar2024.pdf) and blog posts below.
+
+Homepage: [zedongpeng.com](www.zedongpeng.com)
 
