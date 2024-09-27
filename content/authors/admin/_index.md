@@ -1,11 +1,11 @@
 ---
  title: Peng Zedong (彭 则栋)
  role: Master's in [CSE](https://www.cs.sjtu.edu.cn/en/) @ [SJTU](http://en.sjtu.edu.cn/) (2024-2027).
- bio: 
+ bio: 123
  social:
    - icon: github
      icon_pack: fab
-     link: https://github.com/PZD-CHINA
+     link: https://github.com/zedong-peng
      
    - icon: linkedin
      icon_pack: fab

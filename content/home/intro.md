@@ -18,9 +18,15 @@ author: admin
 #  css_class: fullscreen
 ---
 
-Zedong Peng is a master's student enrolled in 2024. His research focuses on Computer Architecture and Hardware / Software Co-Design of AI Systems. 
+Research Interests
 
-Check out [CV](uploads/Zedong_CV_Mar2024.pdf) and blog posts below.
+- Computer Architecture
 
-Homepage: [zedongpeng.com](www.zedongpeng.com)
+- Hardware / Software Co-Design 
+
+Info
+
+- [CV](uploads/Zedong_CV_Mar2024.pdf)
+
+- [Homepage](zedongpeng.com)
 
