@@ -26,5 +26,4 @@ Future
 
 ## PPT
 
-[CI Intro PPT](/uploads/CI.pptx)
-
+https://zedongpeng.com/uploads/CI.pptx
